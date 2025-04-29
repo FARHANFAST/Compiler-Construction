@@ -1,0 +1,5 @@
+README
+ Valid datatypes: integer, boolean, character, decimal
+Operators: +, -, *, /, %, **
+Outside {} brackets: Global variable
+Inside {} brackets: Local variable
